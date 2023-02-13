@@ -8,7 +8,7 @@ chz-router_generate-cli 是一个 JS 编写的，根据你的 "config.json" 路�
 
 ### 一、如何使用
 
-1. $ npm install chz-router_generate-cli --dev
+1. $ npm install chz-router_generate-cli --dev 或使用淘宝镜像 $cnpm install chz-router_generate-cli --dev
 2. 在你执行 chz-router_generate 命令的目录下（一般是项目根目录）创建 router-config.json 文件，写入生成路由所需的配置。
 3. 编写"config.json"文件，指定需要读取目录，生成路由的文件夹路径。
 4. 执行 chz-router_generate 命令。
